@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2019 blanghoff
+=======
+Copyright (c) 2018 gatsbyjs
+>>>>>>> Initial commit from gatsby: (https://github.com/email2vimalraj/gatsby-starter-tech-blog.git)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
