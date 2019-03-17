@@ -29,15 +29,22 @@ export default () => (
       </h3>
       <br />
       <h3>
-      Working with a team of developers, educators, and designers, he lead the creation of  <StyledHref
+      Working with a team of developers, educators, and designers, he leads the creation of  <StyledHref
             href="https://intelligent.education"
             rel="noopener noreferrer"
             target="_blank"
-          ><strong>Intelligent Education</strong></StyledHref>
+          ><strong>Intelligent Education</strong></StyledHref>.
       </h3>
-      <br />
       <h3>
-      Brian now lives and works from his family ranch in Texas.
+      He also works with <StyledHref
+            href="https://academicinfluence.com"
+            rel="noopener noreferrer"
+            target="_blank"
+          ><strong>Academic Influence</strong></StyledHref>, a team of data scientists and academics to provide real-time objective rankings of people, places, and institutions. 
+      <br />
+      </h3>
+      <h3>
+      Brian lives and works from his family ranch in Texas.
       </h3> 
   </Layout>
 )
