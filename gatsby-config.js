@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: 'Tech Blog',
-    siteDescription: 'Tech Blog - A blog by Vimalraj Selvam',
-    authorName: 'Vimalraj Selvam'
+    title: 'TechElement',
+    siteDescription: 'TechElement - Comments on Technology and Humanity',
+    authorName: 'Brian Langhoff'
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'GatsbyJS',
-        short_name: 'GatsbyJS',
+        name: 'TechElement',
+        short_name: 'TechElement',
         start_url: '/',
         background_color: '#6b37bf',
         theme_color: '#6b37bf',
@@ -45,8 +45,8 @@ module.exports = {
         ]
       }
     },
-    'gatsby-plugin-offline',
     `gatsby-plugin-react-helmet`,
-    'gatsby-plugin-styled-components'
+    'gatsby-plugin-styled-components',
+    'gatsby-plugin-offline',
   ]
 }

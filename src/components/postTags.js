@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 const TagLink = styled(Link)`
   font-size: 14px;
-  color: #ffbf00;
+  color: #1BC6B4;
   text-decoration: none;
 `
 
