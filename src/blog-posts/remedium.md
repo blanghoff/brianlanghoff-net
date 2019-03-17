@@ -10,7 +10,7 @@ This is not that kind of confession. I'm posting this on my own site.
 
 I've worked professionally in the technology sector now for almost 7 years. With I am skilled in my own right with a knack for understanding, aggregating, and developing new ideas, I am woefully behind on the basics.
 
-I find myself too dependent on message boards, templates*, and third-party sources to get what I want done. These sources are great for those learning, but there is a deceitfulness in my own use of them. I find myself thinking that I understand, when I perhaps do not possess a full understanding of the basics. 
+I find myself too dependent on message boards, templates*, and third-party sources to get what I want done. These sources are great for those learning, but there is a temptation to think I understand more than I do. Perhaps, I do not possess a full understanding of the basics.
 
 <blockquote>
 	<strong><span style="color:#1BC6B4">Resolved</span></strong>
