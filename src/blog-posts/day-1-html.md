@@ -1,6 +1,6 @@
 ---
 title: 'Day 1: HTML'
-date: '2019-03-16'
+date: '2019-03-18'
 tags: ['100DaysOfCode', 'Remedium', 'HTML']
 ---
 
