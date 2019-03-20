@@ -14,4 +14,5 @@ This section of the 100 Days of Code suggests that I timeblock HTML to last from
 
 Today I Learned: Ok, I said this was a remedial course that would expose the little things I glossed over or never learned. It's going to be hard to find that in HTML for now, but I'll keep you up-to-date
 
-Follow along with me using the "Responsive Web Design" series on <a href="https://learn.freecodecamp.org/" style="color:#1BC6B4; text-decoration:none">FreeCodeCamp.org</a>
+**(freeCodeCamp)**
+Follow along with me using the "Responsive Web Design" series on <a href="https://learn.freecodecamp.org/responsive-web-design/" style="color:#1BC6B4; text-decoration:none">FreeCodeCamp.org</a>
