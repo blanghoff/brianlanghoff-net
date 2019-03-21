@@ -36,6 +36,11 @@ export const PostWrapper = styled.div`
     border-radius: 5px;
     overflow-y: hidden;
   }
+@media (max-width: 1024px) {
+  .gatsby-highlight pre {
+    display: none;
+  }
+}
   .gatsby-highlight pre:before {
     display: inline-block;
     position: absolute;
