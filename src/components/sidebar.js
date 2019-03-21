@@ -5,7 +5,8 @@ import {
   FaHome,
   FaLinkedin,
   FaGithub,
-  FaBook
+  FaBook,
+  FaCode
 } from 'react-icons/fa'
 
 const Sidebar = styled.div`
@@ -134,6 +135,15 @@ export default ({ title, authorName }) => (
           <StyledLink to="/about">
             <FaBook /> <span>About</span>
           </StyledLink>
+        </p>
+        <p>
+          <StyledHref
+            href="https://www.freecodecamp.org/blanghoff"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaCode /> <span>freeCodeCamp</span>
+          </StyledHref>
         </p>
         {/* <p>
           <StyledLink to="/tags">
