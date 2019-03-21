@@ -1,7 +1,7 @@
 ---
 title: 'freeCodeCamp'
 date: '2019-03-20'
-tags: ['100DaysOfCode', 'Remedium', 'freeCodeCamp']
+tags: ['freeCodeCamp']
 ---
 
 I work in the eLearning sector. My first job was with a research software company in Bellingham, WA. I edited videos professors who visited our studio recorded. I added "on-screen text" and graphics to help emphasize the speaker's main points and improve viewer retention.
