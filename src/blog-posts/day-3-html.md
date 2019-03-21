@@ -1,5 +1,5 @@
 ---
-title: 'Day 3: HTML'
+title: 'Day 3: HTML - ANNOUNCEMENT!'
 date: '2019-03-20'
 tags: ['100DaysOfCode', 'Remedium', 'HTML']
 ---
