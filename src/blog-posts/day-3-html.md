@@ -1,10 +1,8 @@
 ---
-title: 'Day 3: freeCodeCamp (HTML)'
+title: 'freeCodeCamp'
 date: '2019-03-20'
-tags: ['100DaysOfCode', 'Remedium', 'HTML' , 'freeCodeCamp']
+tags: ['100DaysOfCode', 'Remedium', 'freeCodeCamp']
 ---
-
-Today will be a light day on comments about my Remedium project.
 
 I work in the eLearning sector. My first job was with a research software company in Bellingham, WA. I edited videos professors who visited our studio recorded. I added "on-screen text" and graphics to help emphasize the speaker's main points and improve viewer retention.
 
@@ -18,17 +16,17 @@ How does an online institution, of any type or scale, allow for their learners t
 
 Enter **<a href="https://www.freecodecamp.org/" style="color:#1BC6B4; text-decoration:none">freeCodeCamp</a>**
 
-```javascript
-
+```
 var point1 = the program that I am working through in the 100 Days of Code challenge;
 
 var point2 = a non-profit online coding school to start coding for yourself;
 
-var point3 = a quasi-academic institution that certifies your work,
-	     checks for plagarism, and issues you a certificate of completion;
+var point3 = a quasi-academic institution that certifies your work, 
+	checks for  plagarism, and issues a certificate of completion;
 
 var freeCodeCamp = point1 + point2 + point3;
 ```
+
 
 Their profile system is exactly what I want to see in an online code eLearning platform. Your profile allows you to see and publicly share your progress. You can follow along with my progress <a href="https://www.freecodecamp.org/blanghoff#cal-heatmap-container" style="color:#1BC6B4; text-decoration:none">here</a>. 
 
