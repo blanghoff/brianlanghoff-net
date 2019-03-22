@@ -18,6 +18,20 @@ export const PostWrapper = styled.div`
     color: #8e8e8e;
   }
 
+  a {
+    color: #1BC6B4; 
+    text-decoration: none;
+  }
+@media (max-width: 1024px) {
+  iframe {
+    display: none;
+  }
+}
+  iframe {
+    width: 100% ;
+    height: 520px ;
+    overflow: hidden;
+  }
   /**
    * based on zenburn.css
    *
