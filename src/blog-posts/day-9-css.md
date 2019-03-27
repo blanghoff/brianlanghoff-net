@@ -16,5 +16,5 @@ CSS IDs are much the same. Because I didn't really understand class...I didn't g
 
 I'm enjoying moving into CSS, as it will give me the tools to keep building the project for this 100 Days of Code challenge.  I'm going to post the really rudimentary Aggie Ipsum project later this week.  Stay tuned.
 
-**(freeCodeCamp)**
+**(freeCodeCamp)**<br />
 Follow along with me using the "Responsive Web Design" series on [freeCodeCamp.org](https://learn.freecodecamp.org/responsive-web-design/)

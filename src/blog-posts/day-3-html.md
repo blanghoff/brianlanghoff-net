@@ -18,5 +18,5 @@ I've searched (rather cursorily) in Google, and I didn't find an Ipsum Generator
 
 Stay tuned for the first static iteration to be linked here.
 
-**(freeCodeCamp)**
+**(freeCodeCamp)**<br />
 Follow along with me using the "Responsive Web Design" series on [freeCodeCamp.org](https://learn.freecodecamp.org/responsive-web-design/)

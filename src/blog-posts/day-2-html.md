@@ -10,5 +10,5 @@ HTML Forms, while simple and elementary, never really stuck when I learned the f
 
 While this is a menial thing for many...it finally clicked for me. Hopefully this 100 Days challenge does not consistently point out the obvious to me, because I feel obligated to share my minor revelations at this point. (looking forward to areas where I acknowledge I am weaker).
 
-**(freeCodeCamp)**
+**(freeCodeCamp)**<br />
 Follow along with me using the "Responsive Web Design" series on [freeCodeCamp.org](https://learn.freecodecamp.org/responsive-web-design/)
