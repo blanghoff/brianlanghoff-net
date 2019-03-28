@@ -4,7 +4,7 @@ date: '2019-03-28'
 tags: ['AggieIpsum']
 ---
 
-## [AggieIpsum.io](https://aggieipsum.io) is live!
+<h2><a href="https://aggieipsum.io" target="_blank">AggieIpsum.io</a> is live!</h2>
 
 It's a joy to ship things, and even though this is a very rudimentary start, it requires setting all the components in place for development.
 
