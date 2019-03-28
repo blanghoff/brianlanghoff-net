@@ -14,7 +14,7 @@ So I set off to just type `<html>` and set the page's basic elements up, and see
 
 I don't wear it on my sleeve, but I am a proud member of the Fightin' Texas Aggie Class of 2010! At [Texas A&M University](https://tamu.edu), there are loads of [traditions](https://www.tamu.edu/traditions/), and most of all jargon. Aggie jargon is part of what makes going to Texas A&M so fun. The traditions of the school reflect the storied and diverse history of the students of years past.  But, coming back to the epiphany, Aggies have loads of jargon that other Aggies appreciate. It's part of the glue that binds us together.
 
-I've searched (rather cursorily) in Google, and I didn't find an Ipsum Generator devoted to my beloved Texas A&M. My project for this 100 Days of Code will be to develop, from scratch and by my own hands, a Fightin' Texas Aggie Ipsum Generator.
+I've searched (rather cursorily) in Google, and I didn't find an Ipsum Generator devoted to my beloved Texas A&M. My project for this 100 Days of Code will be to develop, from scratch and by my own hands, a [Fightin' Texas Aggie Ipsum Generator](https://aggieipsum.io).
 
 Stay tuned for the first static iteration to be linked here.
 
