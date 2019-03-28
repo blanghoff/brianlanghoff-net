@@ -8,16 +8,14 @@ CSS Hierarchy was something you may miss when you're learning CSS by doing.  I c
 
 When you're poking around other people's code, you miss the nuances of 'id before class, except after inline'.  
 
-**CSS Hierarchy
+### CSS Hierarchy
 1. !Important
 2. Inline Style
 3. ID tag
 4. Class tag
 5. HTML tag
 
-Another thing that I missed was CSS Variables. While this information is helpful, I had to Google why you would care to use it.
-
-Thankfully, Google itself has an ![answer](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care). After reading the first few lines, it hit me. Is this what controls "dark mode" on so many sites? 
+Another thing that I missed was CSS Variables. While this information is helpful, I had to Google why you would care to use it. Thankfully, Google itself has an [answer](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care). After reading the first few lines, it hit me. Is this what controls "dark mode" on so many sites? 
 
 I **love** dark mode for sites. Most of the time, I prefer designing a site to be "dark" from its origins, but on long-standing sites and for accessibility reasons, I understand the need to present multiple options.
 
